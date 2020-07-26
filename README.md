@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 Java        8 hrs 52 mins       █████████████░░░░░░░░░░░░   52.07 % 
 Markdown    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 JSON        1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-SQL  		1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+SQL  		    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 YAML        1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 <!--END_SECTION:waka-->
