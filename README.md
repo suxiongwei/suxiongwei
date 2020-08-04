@@ -10,6 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<script src="https://gist.github.com/suxiongwei/014622d64e0ef0791bf68814ab059176.js"></script>
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
