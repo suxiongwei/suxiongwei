@@ -8,6 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :cat:s
 
 📊 **This week I spent my time on**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
