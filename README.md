@@ -9,6 +9,14 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 **This week I spent my time on**
 
+<a href="https://github.com/suxiongwei">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suxiongwei&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/suxiongwei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxiongwei&layout=compact" />
+</a>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
