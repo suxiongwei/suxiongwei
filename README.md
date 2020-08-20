@@ -7,11 +7,13 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@suxiongwei](https://twitter.com/UKy4vyf1YCghXbX)
 - ⚡ Fun fact: I :heart: :cat:s
 
-#### 📊 github基础统计信息/常用的编程语言
+#### 📊 github基础统计信息
 
 <a href="https://github.com/suxiongwei">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=suxiongwei&count_private=true&show_icons=true&theme=default" />
 </a>
+
+#### 📊 常用的编程语言
 
 <a href="https://github.com/suxiongwei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxiongwei&layout=compact" />
