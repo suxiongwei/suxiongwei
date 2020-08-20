@@ -14,26 +14,10 @@ This is the place where I opensource stuff and break things :rofl:
 </a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1>📊 常用的编程语言</h1>
 <p>📊 常用的编程语言</p>
 <a href="https://github.com/suxiongwei">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxiongwei&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxiongwei&layout=compact" />
+</a>
 
 
