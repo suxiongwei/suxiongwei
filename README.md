@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 #### 📊 github基础统计信息
 
 <a href="https://github.com/suxiongwei">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suxiongwei&count_private=true&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suxiongwei&count_private=true&show_icons=true&theme=default" />
 </a>
 
 
