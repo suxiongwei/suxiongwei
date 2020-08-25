@@ -9,10 +9,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 <h4>📊 Basic statistics/Commonly used programming languages<h4>
 <a href="https://github.com/suxiongwei">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suxiongwei&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suxiongwei&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+  
+<h4>📕 Commonly used programming languages<h4>
 <a href="https://github.com/suxiongwei">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxiongwei&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxiongwei&layout=compact" />
 </a>
-
 
