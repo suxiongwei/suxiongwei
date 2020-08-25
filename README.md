@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :cat: s
 
 <h4>📊 Basic statistics<h4>
-<a href="https://github.com/suxiongwei">
+<a href="https://github.com/suxiongwei" display="none">
   <img src="https://github-readme-stats.vercel.app/api?username=suxiongwei&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/suxiongwei">
