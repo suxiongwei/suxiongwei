@@ -11,6 +11,9 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://github.com/suxiongwei">
   <img src="https://github-readme-stats.vercel.app/api?username=suxiongwei&count_private=true&show_icons=true&theme=default" />
 </a>
+<a href="https://github.com/suxiongwei">
+  <img src="https://github-readme-stats.vercel.app/api?username=suxiongwei&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 <h4>📕 Commonly used programming languages<h4>
 <a href="https://github.com/suxiongwei">
